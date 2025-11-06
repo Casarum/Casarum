@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Casarum
 - 👀 I’m interested in ...Database
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Databases, Websites, Cloud Infrastructure
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...Databases, Websites, API, Cloud Infrastructure
+- 📫 How to reach me ... blendi_casarum@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
